@@ -1,0 +1,33 @@
+h1 {
+    background-color: lightseagreen;
+    text-align: center;
+    font-family: 'Courier New', 'Tangerine', 'Allura', 'sans-serif';
+}
+
+h3 {
+    background-color: lightseagreen;
+    text-align: center;
+    font-family: 'Courier New', 'Tangerine', 'Allura', 'sans-serif';
+}
+
+body {
+    background-color: whitesmoke;
+    text-align:left;
+    font-family:'Allura', 'sans-serif';
+}
+
+li {
+    background-color: whitesmoke;
+    text-align:left;
+    list-style-position: inside;
+}
+
+.picture{
+    height: 300px;
+    width: 300px;
+    object-fit:cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
